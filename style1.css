@@ -212,7 +212,7 @@ span {
 .about-image .image-shape img {
     position: absolute;
     left: -6px;
-    top: 49px;
+    top: 35px;
     transform: translateY(-10%);
     object-fit: cover;
     border-radius: 44%;
