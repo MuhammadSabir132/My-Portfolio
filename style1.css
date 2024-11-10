@@ -105,7 +105,7 @@ section {
 .home-image img {
     position: absolute;
     left: -6px;
-    top: 49px;
+    top: 40px;
     transform: translateY(-10%);
     object-fit: cover;
     border-radius: 44%;
